@@ -1,25 +1,25 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming👂 heard
-  - Imperative programming👂 heard
-  - Structured programming👂 heard
+  - Procedural programming🎓 known
+  - Imperative programming🎓 known
+  - Structured programming🎓 known
   - Non-structured programming
   - Functional programming🖐️ used
   - Prototype-based programming
   - Object-oriented programming🖐️ used
   - Object-based programming
-  - Generic programming👂 heard
+  - Generic programming🖐️ used
   - Concurrent computing👂 heard
-  - Asyncronous programming👂 heard
+  - Asyncronous programming🖐️ used
   - Parallel programming🖐️ used
   - Reactive programming👂 heard
   - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
+  - Automata-based programming🖐️ used
+  - Domain-specific languages👂 heard
   - Multi-paradigm programming
   - Metaprogramming
-  - Actor model
+  - Actor model👂 heard
 - OOP basics
   - constructor🖐️ used
   - new🖐️ used
@@ -45,7 +45,7 @@
   - Singleton👂 heard
   - Factory Method
   - Abstract Factory
-  - Adapter
+  - Adapter👂 heard
   - Observer
   - Strategy
   - Facade
@@ -54,11 +54,11 @@
   - Command
   - Iterator👂 heard
   - State
-  - Bridge
+  - Bridge👂 heard
   - Builder👂 heard
   - Prototype
   - Composite
-  - Decorator
+  - Decorator👂 heard
   - Flyweight
   - Mediator
   - Memento👂 heard

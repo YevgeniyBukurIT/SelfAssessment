@@ -18,9 +18,9 @@
   - type🖐️ used
   - primitive types🖐️ used
   - reference types🖐️ used
-  - flag
+  - flag👂 heard
   - lexical scope👂 heard
-  - code block
+  - code block👂 heard
   - conditions
   - loops🖐️ used
   - assignment🖐️ used
@@ -35,22 +35,22 @@
   - parameter🖐️ used
   - pure function🖐️ used
   - lambda expression🖐️ used
-  - side effects👂 heard
+  - side effects🎓 known
   - closure
   - partial application👂 heard
   - curry
   - higher order👂 heard
   - recursion
-  - callback
+  - callback👂 heard
   - listener
   - compose🖐️ used
   - pipe👂 heard
   - memoize
-  - wrapper👂 heard
+  - wrapper🎓 known
   - functor👂 heard
-  - monad
+  - monad👂 heard
   - monoid
-  - generator👂 heard
+  - generator🎓 known
   - coroutine
 - Data structures
   - array🖐️ used
@@ -78,16 +78,16 @@
   - serialization🎓 known
   - string parsing👂 heard
 - Process & style
-  - compiler👂 heard
-  - transpiler👂 heard
-  - linter👂 heard
-  - polyfill
+  - compiler🎓 known
+  - transpiler🎓 known
+  - linter🎓 known
+  - polyfill👂 heard
   - debugger🖐️ used
   - garbage collection🖐️ used
   - refactoring🖐️ used
   - code review🖐️ used
   - antipatterns
-  - paradigm
+  - paradigm🎓 known
   - algorithm🖐️ used
   - magic numbers
   - hardcode👂 heard
@@ -96,9 +96,9 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
+  - dead code👂 heard
+  - unreachable code👂 heard
+  - duplicate code👂 heard
   - exception🖐️ used
   - return early🖐️ used
   - unittest🖐️ used

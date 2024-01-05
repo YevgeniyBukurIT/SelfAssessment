@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop👂 heard
-  - try..catch👂 heard
+  - try..catch🖐️ used
   - Non-blocking👂 heard
   - Async I/O
   - Thread pool
@@ -11,11 +11,11 @@
   - epoll
   - kqueue
   - Completion ports
-  - Event ports
+  - Event ports👂 heard
   - libuv
   - Race conditions
   - Dead locks
-  - Live locks
+  - Live locks👂 heard
   - Concurrent programming
   - Parallel programming
   - Actor Model👂 heard
@@ -36,25 +36,25 @@
   - Coroutine
   - Goroutine
   - Signal
-  - Stream👂 heard
+  - Stream🎓 known
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
+  - callbackify👂 heard
+  - promisify👂 heard
   - asyncify
   - callbacks compose
-  - async compose
+  - async compose👂 heard
 - Async abstractions interfaces
   - EventEmitter👂 heard
   - Observable/Observer
-  - Readable
-  - Writable
+  - Readable👂 heard
+  - Writable👂 heard
   - Transform
-  - Async Pool
+  - Async Pool👂 heard
   - Async Queue
-  - Async Collector
+  - Async Collector👂 heard
   - Semaphore
   - Mutex
   - Spin Lock
@@ -81,10 +81,10 @@
   - AsyncLocalStorage👂 heard
   - AsyncResource👂 heard
 - Techniques
-  - async.js library👂 heard
+  - async.js library🎓 known
   - RxJS library
   - Async composition
-  - Promise.all👂 heard
+  - Promise.all🎓 known
   - Promise.allSettled👂 heard
   - Promise.race👂 heard
   - Promise.any👂 heard
