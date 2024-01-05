@@ -1,12 +1,12 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
+  - Event loop👂 heard
+  - try..catch👂 heard
+  - Non-blocking👂 heard
   - Async I/O
   - Thread pool
-  - Pattern Reactor
+  - Pattern Reactor👂 heard
   - CAS operations
   - epoll
   - kqueue
@@ -18,25 +18,25 @@
   - Live locks
   - Concurrent programming
   - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Actor Model👂 heard
+  - Thread👂 heard
+  - Process👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks🖐️ used
+  - Callback-last-error-first🖐️ used
   - Thenable
-  - Promise
-  - Async/await
+  - Promise🖐️ used
+  - Async/await🖐️ used
   - Future
-  - Deferred
+  - Deferred👂 heard
   - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Async Generator👂 heard
+  - Async Iterator👂 heard
+  - Event👂 heard
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
@@ -47,7 +47,7 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter👂 heard
   - Observable/Observer
   - Readable
   - Writable
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers🖐️ used
   - setImmediate
   - nextTick
   - AbortController
@@ -72,22 +72,22 @@
   - High resolution clock
   - Callback hell
   - Promise hell
-  - ref() and unref()
+  - ref() and unref()🖐️ used
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization
   - promisify
   - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage👂 heard
+  - AsyncResource👂 heard
 - Techniques
-  - async.js library
+  - async.js library👂 heard
   - RxJS library
   - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all👂 heard
+  - Promise.allSettled👂 heard
+  - Promise.race👂 heard
+  - Promise.any👂 heard
   - Web Locks API
   - IPC
   - Channel API

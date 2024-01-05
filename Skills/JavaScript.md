@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
+  - Object🖐️ used
+  - this🖐️ used
+  - arrow function🖐️ used
+  - async function🖐️ used
+  - call🖐️ used
+  - bind🖐️ used
   - apply
   - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
+  - ...spread🖐️ used
+  - ...rest🖐️ used
+  - typeof🖐️ used
+  - destructuring🖐️ used
   - generator
   - iterator
   - async generator
   - async iterator
-  - chaining
+  - chaining👂 heard
   - optional chaining
   - IIFE
-  - global
-  - globalThis
+  - global🖐️ used
+  - globalThis👂 heard
   - window
   - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
+  - __proto__👂 heard
+  - prototype👂 heard
+  - equality operators👂 heard
+  - logical operators👂 heard
+  - bitwise operators👂 heard
+  - ternary operator👂 heard
   - void
   - yield
-  - await
+  - await🖐️ used
   - template literal
   - strict mode
   - delete
@@ -41,49 +41,49 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
+  - if🖐️ used
+  - while🖐️ used
+  - do..while🖐️ used
+  - for🖐️ used
+  - for..in🖐️ used
+  - for..of🖐️ used
+  - for await🖐️ used
+  - throw👂 heard
+  - break🖐️ used
+  - continue🖐️ used
+  - import🖐️ used
+  - export🖐️ used
+  - label🖐️ used
+  - try..catch🖐️ used
+  - switch🖐️ used
+  - class🖐️ used
   - new Error
-  - with
+  - with👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration🖐️ used
+  - function expression🖐️ used
+  - return🖐️ used
+  - default parameters🖐️ used
+  - functional object👂 heard
 - Data structures
-  - Array
-  - mixin
+  - Array🖐️ used
+  - mixin👂 heard
   - extend
   - typed arrays
-  - Map
+  - Map🖐️ used
   - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
+  - undefined🖐️ used
+  - null🖐️ used
+  - Proxy🖐️ used
+  - weak collections👂 heard
+  - timers👂 heard
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date🖐️ used
+  - BigInt👂 heard
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
+  - V8👂 heard
+  - Node.js👂 heard
+  - npm🖐️ used
+  - prettier👂 heard
   - MDN
