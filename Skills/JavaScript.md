@@ -34,11 +34,11 @@
   - yield
   - await🖐️ used
   - template literal
-  - strict mode
+  - strict mode👂 heard
   - delete
-  - in
-  - super
-  - Symbol
+  - in🖐️ used
+  - super🖐️ used
+  - Symbol🖐️ used
   - Reflect
 - Statements
   - if🖐️ used
